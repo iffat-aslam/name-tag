@@ -5,7 +5,7 @@ const nameInput = document.getElementById('name-input');
 nameDisplay.style.Color = 'pink';
 
 const booger = document.getElementById('nametag');
-booger.style.backgroundColor = 'pink';
+booger.style.backgroundColor = 'lightblue';
 
 const nameUpdateButton = document.getElementById('update-button');
 nameUpdateButton.addEventListener('click', () => {
